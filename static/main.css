@@ -1,0 +1,80 @@
+body{
+  font-family: "Gloria Hallelujah";
+}
+
+.top-container{
+  position: relative;
+  height: 100px;
+  width: 2000px;
+  background-color: #F0F8FF;
+  padding: 0px;
+  margin: 0px;
+  right: 15px;
+  bottom: 20px;
+}
+
+.logo{
+  position: relative;
+  padding: 0px;
+  margin: 0px;
+  left: 0px;
+  bottom: 35px;
+}
+
+
+.prenota{
+  position: relative;
+  left: 250px;
+  bottom: 200px;
+  font-size: 30px;
+  color: red;
+}
+
+.image-container{
+}
+
+.sfondo{
+  height: 750px;
+  width: 1500px;
+  position: relative;
+  bottom: 20px;
+  right: 214px;
+  border-width: 400px;
+  border-right-style: solid ;
+  border-left-style: solid;
+  border-color: red;
+}
+
+.medium-container{
+  text-align: center;
+  font-family: "Open Sans";
+}
+
+.welcome{
+  color: black;
+  position: relative;
+  bottom: 20px;
+}
+
+.line{
+  border: 10px;
+  border-color: black;
+}
+
+.data{
+  text-align:left;
+}
+
+.datetosearch{
+  position:relative;
+  left: 1200px;
+  bottom: 65px;
+  width: 100px;
+  height: 40px;
+}
+
+.button{
+  position:relative;
+  left: 1250px;
+  bottom: 65px;
+}
